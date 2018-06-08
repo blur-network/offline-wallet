@@ -1,0 +1,1 @@
+# Blur Offline Wallet Generator
